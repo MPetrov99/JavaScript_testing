@@ -1,0 +1,44 @@
+/* Global Styles */
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.nav-brand img {
+    width: initial;
+}
+
+
+/**/
+
+.btn1 {
+    margin: 1rem;
+}
+
+.section1 {
+    text-align: center;
+}
